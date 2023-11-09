@@ -14,5 +14,7 @@ mentor-openmw-lua (how to code in lua for OpenMW)
 mentor-blender (how to create models using blender)
 mentor-textures (how to create and edit textures for Morrowind)
 mentor-shader (how to make shaders for Morrowind)
+mentor-animation (how to animated models, nocs, creatures)
+mentor-opencs (how to use the OpenMW Construction Set.)
 
 We're thinking January for the event.

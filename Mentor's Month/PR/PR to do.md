@@ -1,0 +1,3 @@
+- talk to DEG
+- talk to MW discord
+- recruit mentors
