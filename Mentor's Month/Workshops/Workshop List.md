@@ -30,3 +30,6 @@ S3ctor
 	tes3cmd
 
 Greatness7 (if ideas)
+
+RandomPal
+	how to make a patch
