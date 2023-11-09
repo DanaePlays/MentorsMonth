@@ -1,0 +1,3 @@
+- ask mentor to determine a level and pre-requisites (e.g. basic blender knowledge)
+-  ask mentors to have a plan (we want to make sure it's not too niche)
+-  assign interlocutor to mentors who asked for one.

@@ -1,4 +1,4 @@
-**Melchior (level3a)**
+**Melchior** (level3a)
 - cs 
 - script 
 - dungeon
@@ -7,14 +7,14 @@
 - blender
 - animation
 
-**Seelof (level 3a)**
+**Seelof** (level 3a)
 - dungeon
 
-**Glittergear (level 3ab)**
+**Glittergear **(level 3ab)
 - landscape
 - dungeon
 
-**Danae**
+**Danae** (level 3)
 - quest
 - cs
 - dialogue
@@ -89,3 +89,71 @@
 
 **Shivatheo** (level 1
 - blender
+
+**Billyfighter** (level 1)
+- cs
+- script
+- interior
+- landscape
+- dialogue
+- blender
+- textures
+- animation
+
+**Kynesifnar** (level 1)
+- models
+- animation
+
+**MwGek** level 1
+NEED FOLLOW UP
+
+**FlinSunset** (level 1)
+- script
+
+**Remiros** (level 2)
+NEED FOLLOW UP
+
+**Olaf** (level 1)
+NEED FOLLOW UP
+
+**Mort** (level 3)
+- cs
+- script
+- dialogue
+- lua
+
+Johnnyhostile
+NEED FOLLOW UP
+
+**BillyFighter** (level 3)
+- cs
+- script
+- interior
+- dungeon
+- landscape
+- dialogue
+- blender
+- textures
+- animation
+
+**Tiny Plesiosaur** (level 1, mayyybe 3)
+- dialogue
+- interior
+- cs
+
+VitruvianGuar
+NEED FOLLOW UP
+
+**Kalinter** (level 1)
+- cs
+- interior
+- landscape
+- dialogue
+
+**GrumblingVomit **(level 1)
+- dialogue
+- scripting
+
+**Cicero** (Ray Sipe Swagg Daddy) (level 1)
+- landscape
+

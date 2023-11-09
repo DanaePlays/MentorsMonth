@@ -1,12 +1,12 @@
 ?? Dylan
- - Mort
-- Vegetto
-- RP
-- Remiros
-- Vennin
+ - Mort - yes + workshop tricks and templates to make quests
+- Vegetto - yes ASK FOR DETAILS
+- RP - yes + workshop how to make a patch (solo)
+- Remiros - yes
+- Vennin CONTACT LATER
 ?? EJ-12
 ?? Lady Phoenix
-- Von Djangos
+- Von Djangos - yes + workshop adding voiced lines
 - Kalinter
 - DetailDevil
 - Ruffin
@@ -14,7 +14,7 @@
 - Tewl
 - Wolli
 - Endify
-- BillyFighter
+- BillyFighter - yes + workshop quest mod planning
 - Tizzo
 - AlandroSul
 - Markond

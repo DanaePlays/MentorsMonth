@@ -33,3 +33,12 @@ mentor-textures (how to create and edit textures for Morrowind)
 mentor-shader (how to make shaders for Morrowind)
 mentor-animation (how to animated models, nocs, creatures)
 mentor-opencs (how to use the OpenMW Construction Set.)
+
+----------------
+
+As a mentor you can (some, all, either of the following)
+- pick a skillset (mentor-cs, mentor-interior, mentor-quest...)
+- answer questions from mentees in the forum
+- offer more personal guidance via DMs
+- hold a workshop
+For the workshop, you can solo it or have an interlocutor (me for example) to talk to, the interlocutor also keeps an eye of the chat to voice the questions so you don't have to multi-task as much.
