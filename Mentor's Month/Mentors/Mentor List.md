@@ -74,3 +74,8 @@
 
 **Ruffin Vangarr** (level 1)
 - models
+
+**Vegetto** (level 1)
+- textures
+- blender
+- nifskope
