@@ -1,0 +1,1 @@
+As questions are asked and answered in the forum threads, they are categorised and organised into a browsable/searchable FAQ (ideally from discord)
