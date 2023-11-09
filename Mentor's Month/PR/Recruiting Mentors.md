@@ -10,7 +10,7 @@ o/ We're organising a new modding event called **Modding Mastery Month** where w
 - pick a skillset (mentor-cs, mentor-interior, mentor-quest...) because no one knows it all.
 - answer questions from mentees in the forum.
 - offer more personal guidance via DMs.
-- hold a workshop.
+- hold a workshop. (you can solo it or have an interlocutor (me for example) to talk to, the interlocutor also keeps an eye of the chat to voice the questions so you don't have to multi-task as much.)
 
 We think you'd make a terrific mentor, even just being around answering questions when and where you can.
 
@@ -34,11 +34,3 @@ mentor-shader (how to make shaders for Morrowind)
 mentor-animation (how to animated models, nocs, creatures)
 mentor-opencs (how to use the OpenMW Construction Set.)
 
-----------------
-
-As a mentor you can (some, all, either of the following)
-- pick a skillset (mentor-cs, mentor-interior, mentor-quest...)
-- answer questions from mentees in the forum
-- offer more personal guidance via DMs
-- hold a workshop
-For the workshop, you can solo it or have an interlocutor (me for example) to talk to, the interlocutor also keeps an eye of the chat to voice the questions so you don't have to multi-task as much.

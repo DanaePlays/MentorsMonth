@@ -157,3 +157,14 @@ NEED FOLLOW UP
 **Cicero** (Ray Sipe Swagg Daddy) (level 1)
 - landscape
 
+**Endify** (level 1)
+- cs
+- interior
+- dungeon
+- dialogue
+
+**Aveno** (level 1)
+- interior
+
+**Abot** (level 0.5, was hard to convince)
+- general mentor role

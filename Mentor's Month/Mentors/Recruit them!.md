@@ -7,32 +7,32 @@
 ?? EJ-12
 ?? Lady Phoenix
 - Von Djangos - yes + workshop adding voiced lines
-- Kalinter
-- DetailDevil
-- Ruffin
-- Katya
-- Tewl
-- Wolli
-- Endify
+- Kalinter - yes
+- DetailDevil CONTACT LATER
+- Ruffin - yes + possible workshop (writing and armour)
+- Tewl CONTACT LATER
+- Wolli CONTACT LATER
+- Endify - yes
 - BillyFighter - yes + workshop quest mod planning
-- Tizzo
-- AlandroSul
-- Markond
-- MwGek
-- johnnyhostile
-- Kamalie
-- GrumblingVomit
-- Stripes
-- Endoran
-- Prof
-- Markel
-- Denis418
+- Tizzo - yes CONTACT LATER
+- AlandroSul CONTACT LATER
+- Markond CONTACT LATER
+- MwGek Yes
+- johnnyhostile Yes CONTACT LATER
+- Kamalie CONTACT LATER
+- GrumblingVomit - yes
+- Stripes CONTACT LATER
+- Endoran CONTACT LATER
+- Prof CONTACT LATER
+- Markel CONTACT LATER
+- Denis418 - yes
 ?? Kleidium
-- PeteTheGoat
-- Vitruvian_Guar
+- PeteTheGoat CONTACT LATER
+- Vitruvian_Guar yes - CONTACT LATER
 ?? Safebox
-- Half11
+- Half11 CONTACT LATER
 ?? Virnetch
-- Olaf
-- Abot
-- Null
+- Olaf CONTACT LATER
+- Abot yes-ish
+- Null CONTACT LATER
+
