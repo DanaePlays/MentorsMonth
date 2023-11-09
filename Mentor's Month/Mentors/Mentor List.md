@@ -79,3 +79,7 @@
 - textures
 - blender
 - nifskope
+
+**Denis418** (level 1)
+- interiors
+- dungeons
