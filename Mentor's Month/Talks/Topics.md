@@ -1,0 +1,3 @@
+- how to use discord
+- mod ethics (perms, compatibility, read me)
+- cathedral vs parlour modding
