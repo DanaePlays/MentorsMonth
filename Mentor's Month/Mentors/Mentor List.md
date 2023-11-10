@@ -111,7 +111,8 @@ NEED FOLLOW UP
 - script
 
 **Remiros** (level 2)
-NEED FOLLOW UP
+- blender
+- texture
 
 **Olaf** (level 1)
 NEED FOLLOW UP
@@ -123,7 +124,10 @@ NEED FOLLOW UP
 - lua
 
 Johnnyhostile
-NEED FOLLOW UP
+- script
+- dialogue
+- openmw-lua
+- opencs
 
 **BillyFighter** (level 3)
 - cs
