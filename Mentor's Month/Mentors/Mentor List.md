@@ -182,3 +182,11 @@ ASK LATER
 
 Tewlwolow (level 3)
 ASK LATER
+
+**Half11** (level 1)
+- cs
+- script
+- dialogue
+
+**NullCascade** (level 1)
+- lua
