@@ -2,3 +2,4 @@
 - mod ethics (perms, compatibility, read me)
 - cathedral vs parlour modding
 - blender Vs Nifskope Vs 3dsmax
+- modders and their experience modding MW
