@@ -1,3 +1,4 @@
 - talk to DEG
 - talk to MW discord
 - recruit mentors
+- mentors detailed instructions "So, you're a mentor"

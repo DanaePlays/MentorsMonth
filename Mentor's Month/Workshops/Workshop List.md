@@ -7,7 +7,7 @@
 	Co-host: Danae
 
 **Seelof**
-	Create a small dungeon with Seelof
+	Dungeons and verticality
 	co-host: Danae
 
 **Urm**

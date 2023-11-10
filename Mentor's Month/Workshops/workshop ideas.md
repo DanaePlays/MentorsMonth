@@ -1,2 +1,3 @@
 - modding tools
 - basic scripting used in quests (Mort)
+- images in MW (format, sizes, how to implement) ASK @mentor-textures
