@@ -181,7 +181,10 @@ Vennin
 ASK LATER
 
 Tewlwolow (level 3)
-ASK LATER
+- lua
+- blender
+- textures
+- shader
 
 **Half11** (level 1)
 - cs
