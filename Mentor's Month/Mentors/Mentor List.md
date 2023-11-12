@@ -146,7 +146,10 @@ Johnnyhostile
 - cs
 
 VitruvianGuar
-NEED FOLLOW UP
+- cs
+- script
+- dialogue
+- lua
 
 **Kalinter** (level 1)
 - cs
