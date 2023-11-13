@@ -15,14 +15,12 @@
 - dungeon
 
 **Danae** (level 3)
-- quest
 - cs
 - dialogue
 
 **Lucevar** (level 2, possible 3)
 - interiors
 - dialogue
-- quest
 
 **Urm** (level 3a)
 - openmw-lua
@@ -89,16 +87,6 @@
 
 **Shivatheo** (level 1
 - blender
-
-**Billyfighter** (level 1)
-- cs
-- script
-- interior
-- landscape
-- dialogue
-- blender
-- textures
-- animation
 
 **Kynesifnar** (level 1)
 - models
@@ -196,3 +184,16 @@ Tewlwolow (level 3)
 
 **NullCascade** (level 1)
 - lua
+
+**Von Django** (level 3)
+- dialogue
+- scripting
+
+Tizzo (level1)
+CONRACT AGAIN
+
+Mothpot
+
+Markond
+
+Detail
