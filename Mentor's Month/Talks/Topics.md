@@ -3,3 +3,5 @@
 - cathedral vs parlour modding
 - blender Vs Nifskope Vs 3dsmax
 - modders and their experience modding MW
+- mod inspiration and methodology
+- modding and lore

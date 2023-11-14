@@ -46,3 +46,9 @@ Ruffin Vangarr
 
 **BillyFighter**
 	Planning a quest mod
+
+**MassiveJuice**
+	landscape
+
+**Qualia**
+	design docs and quests
