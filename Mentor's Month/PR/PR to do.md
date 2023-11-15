@@ -2,3 +2,4 @@
 - talk to MW discord
 - recruit mentors
 - mentors detailed instructions "So, you're a mentor"
+- contact Nexus

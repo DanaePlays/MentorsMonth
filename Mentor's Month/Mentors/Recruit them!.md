@@ -1,6 +1,6 @@
 ?? Dylan
  - Mort - yes + workshop tricks and templates to make quests
-- Vegetto - yes ASK FOR DETAILS
+- Vegetto - yes + workshops
 - RP - yes + workshop how to make a patch (solo)
 - Remiros - yes
 - Vennin CONTACT LATER
@@ -10,16 +10,15 @@
 - Kalinter - yes
 - DetailDevil CONTACT LATER
 - Ruffin - yes + possible workshop (writing and armour)
-- Tewl CONTACT LATER
+- Tewl yes
 - Wolli CONTACT LATER
 - Endify - yes
 - BillyFighter - yes + workshop quest mod planning
-- Tizzo - yes CONTACT LATER
+- Tizzo - yes 
 - AlandroSul CONTACT LATER
-- Markond CONTACT LATER
 - MwGek Yes
-- johnnyhostile Yes CONTACT LATER
-- Kamalie CONTACT LATER
+- johnnyhostile Yes 
+- Kamalie yes
 - GrumblingVomit - yes
 - Stripes CONTACT LATER
 - Endoran CONTACT LATER
@@ -28,11 +27,11 @@
 - Denis418 - yes
 ?? Kleidium
 - PeteTheGoat CONTACT LATER
-- Vitruvian_Guar yes - CONTACT LATER
+- Vitruvian_Guar yes
 ?? Safebox
-- Half11 CONTACT LATER
+- Half11 yes
 ?? Virnetch
-- Olaf CONTACT LATER
+- Olaf yes
 - Abot yes-ish
-- Null CONTACT LATER
+- Null  - yes
 

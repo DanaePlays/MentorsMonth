@@ -192,8 +192,9 @@ Tewlwolow (level 3)
 Tizzo (level1)
 CONRACT AGAIN
 
-Mothpot
+**Amalie** (level 1)
+- lua
 
-Markond
+Mothpot?
 
-Detail
+Detail?
