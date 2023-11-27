@@ -52,3 +52,10 @@ Ruffin Vangarr
 
 **Qualia**
 	design docs and quests
+
+**Johnnyhostile**
+	Performantly and reproducibly running Morrowind.exe + MGE-XE + MWSE + CSSE on Linux
+
+**Vidi_Aquam**
+	animations
+	tes3mp-lua

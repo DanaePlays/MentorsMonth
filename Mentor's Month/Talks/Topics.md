@@ -5,3 +5,4 @@
 - modders and their experience modding MW
 - mod inspiration and methodology
 - modding and lore
+- modding with AI (MD, VonDjangos, Merlord, G7, Danae...)
