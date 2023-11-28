@@ -59,3 +59,6 @@ Ruffin Vangarr
 **Vidi_Aquam**
 	animations
 	tes3mp-lua
+
+**Knots
+	AI (Stable Diffusion)

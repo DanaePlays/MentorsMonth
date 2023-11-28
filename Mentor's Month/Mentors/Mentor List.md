@@ -197,4 +197,9 @@ CONRACT AGAIN
 
 Mothpot?
 
-Detail?
+**DetailDevil** (level 1)
+- mwscript
+- quest design
+
+**Knots** level 3only
+- AI in modding
