@@ -1,8 +1,8 @@
-- how to use discord
-- mod ethics (perms, compatibility, read me)
-- cathedral vs parlour modding
-- blender Vs Nifskope Vs 3dsmax
+- mod ethics (perms, compatibility, read me) (Jackimoff)
+- cathedral vs parlour modding (Jackimoff)
+- blender Vs Nifskope Vs 3dsmax (Vegetto, MD)
 - modders and their experience modding MW
-- mod inspiration and methodology
-- modding and lore
+- mod inspiration and methodology (Seelof, VitruvianGuar)
+- modding and lore (R-Zero, MD)
 - modding with AI (MD, VonDjangos, Merlord, G7, Knots, Danae...)
+- solo modding Vs group modding (Seelof, MD)
