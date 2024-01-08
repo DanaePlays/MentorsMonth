@@ -1,8 +1,10 @@
 - mod ethics (perms, compatibility, read me) (Jackimoff)
 - cathedral vs parlour modding (Jackimoff)
-- blender Vs Nifskope Vs 3dsmax (Vegetto, MD)
+- blender Vs Nifskope Vs 3dsmax (Vegetto, MD, MWGek)
 - modders and their experience modding MW
 - mod inspiration and methodology (Seelof, VitruvianGuar)
 - modding and lore (R-Zero, MD)
 - modding with AI (MD, VonDjangos, Merlord, G7, Knots, Danae...)
 - solo modding Vs group modding (Seelof, MD)
+- MWSE throughout the years. (Null, G7, Hrmd)
+- Writing in MW (RV, Corsair, Dylan)

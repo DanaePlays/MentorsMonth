@@ -62,3 +62,6 @@ Ruffin Vangarr
 
 **Knots
 	AI (Stable Diffusion)
+
+XeroFoxx
+	Textures
